@@ -1,11 +1,9 @@
-import Gallery from "./compnent/Gallery";
-
 function App() {
   return (
     <div>
-      
-      <Gallery />
-
+      <p>
+        <h2>HELLO GUYS</h2>
+      </p>
     </div>
   );
 }
